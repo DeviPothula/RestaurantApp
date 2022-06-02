@@ -1,0 +1,113 @@
+.App {
+  text-align: center;
+}
+
+.mybox
+{
+  border: 2px solid black;
+  margin: 10px;
+  font-weight: 500;
+}
+.m
+{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  margin: 10px;
+  text-decoration: none;
+}
+.im
+{
+  margin: 10px;
+  padding: 20px;
+  border: 1px solid;
+  box-shadow: 3px 3px #888888;
+}
+.navi
+{
+  padding: 10px;
+  background-color: black;
+  text-decoration: none;
+  color: white;
+}
+.mybox
+{
+  border: 1px solid;
+  padding: 20px;
+  margin-top: 10px;
+  margin-left: 200px;
+  margin-right: 300px;
+  box-shadow: 3px 3px #888888;
+}
+.link {
+  color: #FFF;
+}
+.l
+{
+  text-decoration: none;
+  
+}
+.login-page{
+  width: 200px;
+  padding: 8% 0 0;
+  
+}
+.login-page{
+  margin-top: 40px;
+  position: relative;
+  margin-left: 450px;
+  background: #FFFFFF;
+  max-width: 200px;
+  /* margin: 0 auto 100px; */
+  padding: 45px;
+  text-align: center;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+.forminput {
+  font-family: "Roboto", sans-serif;
+  outline: 0;
+  background: #f2f2f2;
+  width: 100%;
+  border: 0;
+  margin: 0 0 15px;
+  padding: 15px;
+  box-sizing: border-box;
+  font-size: 14px;
+}
+.formbutton {
+  font-family: "Roboto", sans-serif;
+  text-transform: uppercase;
+  outline: 0;
+  background: #4CAF50;
+  width: 100%;
+  border: 0;
+  padding: 15px;
+  color: #FFFFFF;
+  font-size: 14px;
+  -webkit-transition: all 0.3 ease;
+  transition: all 0.3 ease;
+  cursor: pointer;
+}
+.formbutton:hover,.form button:active,.form button:focus {
+  background: #43A047;
+}
+.button
+{
+  display: inline-block;
+        background-color: black;
+        border-radius: 5px;
+        border: 2px double #cccccc;
+        color: #eeeeee;
+        text-align: center;
+        font-size: 10px;
+        padding: 10px;
+        width: 100px;
+        -webkit-transition: all 0.5s;
+        -moz-transition: all 0.5s;
+        -o-transition: all 0.5s;
+        transition: all 0.5s;
+        cursor: pointer;
+        margin: 5px;
+}
